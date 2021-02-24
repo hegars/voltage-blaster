@@ -20,8 +20,8 @@ PCB
 * Updated - "PC Rear" locator to make it a bit more clear the direction
 * Added - Pin numbers added for relevent pins for refernece
 
-Altmod
-* Removed - Unused Pins in ISA Connector 
+PCB - Alternate mod
+* Removed - Unused Pins on ISA Connector 
 
 SCH
 * Updated - Chaged to global lables
@@ -33,7 +33,7 @@ SCH
 ![voltage-blaster-pcb](voltage-blaster-pcb-back.png)
 
 ## Only Required Pins Version
-Im not convinced it doesn't look as nice, but it is proably better on the ware of the socket
+I'm not convinced as it doesn't as look nice but it proably is better on the future ware on the socket
 
 ![voltage-blaster-pcb-nopin](images/voltage-blaster-nopins.png)
 ![voltage-blaster-pcb-nopin](images/voltage-blaster-nopins-front.png)
