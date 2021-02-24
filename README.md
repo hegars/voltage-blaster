@@ -12,6 +12,7 @@ PCB
 * Updated - Pulled Mask from ISA Cconnector
 * Updated - Pulled Mask from the top of TO-220 package to allow soldering
 * Added - Linked copper zone beneath TO-220 package to -12v for soldering 
+* Updated - NPTH mount on TO-220 package changed to PTH
 * Added - Added Vias under TO-220 for heat transfer to rear copper zone
 * Added - Added Copper zone on rear for heat sinking and capacitance (Linked at -12v)
 * Updated - Slight components aliginments
