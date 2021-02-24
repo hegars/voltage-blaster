@@ -5,15 +5,6 @@ for systems with power supply which don't provide such voltage. It was created
 in cooperation of PhilsComputerLab with Necroware.
 
 ![voltage-blaster-pcb](voltage-blaster-pcb.png)
-![voltage-blaster-pcb](voltage-blaster-pcb-front.png)
-![voltage-blaster-pcb](voltage-blaster-pcb-back.png)
-
-## No pins version
-Im not convinced, dosnt look as nice, but proably better on the socket
-
-![voltage-blaster-pcb-nopin](voltage-blaster-pcb-nopins.png)
-![voltage-blaster-pcb-nopin](voltage-blaster-pcb-nopins-front.png)
-![voltage-blaster-pcb-nopin](voltage-blaster-pcb-nopins-back.png)
 
 ## Changes From Necroware version
 
@@ -33,6 +24,17 @@ SCH
 * Updated - Chaged to global lables
 * Updated - Version number
 
+## All Pins Version
+
+![voltage-blaster-pcb](voltage-blaster-pcb-front.png)
+![voltage-blaster-pcb](voltage-blaster-pcb-back.png)
+
+## Only Required Pins Version
+Im not convinced it doesn't look as nice, but it is proably better on the ware of the socket
+
+![voltage-blaster-pcb-nopin](images/voltage-blaster-pcb-nopins.png)
+![voltage-blaster-pcb-nopin](images/voltage-blaster-pcb-nopins-front.png)
+![voltage-blaster-pcb-nopin](images/voltage-blaster-pcb-nopins-back.png)
 
 Many thanks to Necroware and PhilsComputerLab, I owe you some beers..
 
