@@ -9,6 +9,8 @@ in cooperation of PhilsComputerLab with Necroware.
 ![voltage-blaster-pcb](voltage-blaster-pcb-back.png)
 
 ## Changes From Necroware version
+
+PCB
 * Updated - Pulled Mask from ISA Cconnector
 * Updated - Pulled Mask from the top of TO-220 package to allow soldering
 * Added - Vias under TO-220 for heat transfer to rear copper zone
@@ -19,6 +21,9 @@ in cooperation of PhilsComputerLab with Necroware.
 * Updated - PCB corners rounded
 * Updated - "PC Rear" locator to make it a bit more clear the direction
 * Added - Pin numbers added for relevent pins for refernece
+
+SCH
+* Updated - Chaged to global lables
 
 Many thanks to Necroware and PhilsComputerLab, I owe you some beers..
 
