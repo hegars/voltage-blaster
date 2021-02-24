@@ -33,9 +33,10 @@ SCH
 ![voltage-blaster-pcb](voltage-blaster-pcb-back.png)
 
 ## Only Required Pins Version
-I'm not convinced as it doesn't look as nice but it proably is better on the future wear on the socket
-
 ![voltage-blaster-pcb-nopin](images/voltage-blaster-nopins.png)
+
+Hmmmm... I'm not convinced as it doesn't look as nice but it proably is better on the future wear on the socket
+
 ![voltage-blaster-pcb-nopin](images/voltage-blaster-nopins-front.png)
 ![voltage-blaster-pcb-nopin](images/voltage-blaster-nopins-back.png)
 
