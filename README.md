@@ -8,6 +8,13 @@ in cooperation of PhilsComputerLab with Necroware.
 ![voltage-blaster-pcb](voltage-blaster-pcb-front.png)
 ![voltage-blaster-pcb](voltage-blaster-pcb-back.png)
 
+## No pins version
+Im not convinced, dosnt look as nice, but proably better on the socket
+
+![voltage-blaster-pcb-nopin](voltage-blaster-pcb-nopins.png)
+![voltage-blaster-pcb-nopin](voltage-blaster-pcb-nopins-front.png)
+![voltage-blaster-pcb-nopin](voltage-blaster-pcb-nopins-back.png)
+
 ## Changes From Necroware version
 
 PCB
