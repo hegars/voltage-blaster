@@ -5,6 +5,21 @@ for systems with power supply which don't provide such voltage. It was created
 in cooperation of PhilsComputerLab with Necroware.
 
 ![voltage-blaster-pcb](voltage-blaster-pcb.png)
+![voltage-blaster-pcb](voltage-blaster-pcb-front.png)
+![voltage-blaster-pcb](voltage-blaster-pcb-back.png)
+
+## Changes From Necroware version
+* Pulled Mask from ISA Cconnector
+* Pulled Mask from the top of TO220 package to allow soldering
+* Added via pads for heat transfer to rear copper zone
+* Added copper area for heatsinking
+* Changed components aliginments slightly
+* Moved logo from silk to mask
+* Rounded PCB corners
+* Updated "PC Rear" indicator to make it a bit more clear
+* Added Pin numbers for relevent pins for refernece
+
+Many thanks to Necroware and PhilsComputerLab, I owe you some beers..
 
 ## Why do I need this?
 
