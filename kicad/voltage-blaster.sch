@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Voltage Blaster"
-Date "2020-11-20"
-Rev "1.0b-hegars-mod"
+Date "2021-02-24"
+Rev "1.0b-mod-hegars"
 Comp "PhilsComputerLab & Necroware"
 Comment1 "Designed by Scorp"
 Comment2 ""

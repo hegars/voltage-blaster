@@ -24,6 +24,8 @@ PCB
 
 SCH
 * Updated - Chaged to global lables
+* Updated - Version number
+
 
 Many thanks to Necroware and PhilsComputerLab, I owe you some beers..
 
