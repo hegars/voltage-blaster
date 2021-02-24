@@ -11,8 +11,9 @@ in cooperation of PhilsComputerLab with Necroware.
 PCB
 * Updated - Pulled Mask from ISA Cconnector
 * Updated - Pulled Mask from the top of TO-220 package to allow soldering
-* Added - Vias under TO-220 for heat transfer to rear copper zone
-* Added - Copper zone on rear at -12v potential for heat sinking and capacitance
+* Added - Linked copper zone beneath TO-220 package to -12v for soldering 
+* Added - Added Vias under TO-220 for heat transfer to rear copper zone
+* Added - Added Copper zone on rear for heat sinking and capacitance (Linked at -12v)
 * Updated - Slight components aliginments
 * Moved - Logo changed from Silk to Mask and moved credits around
 * Updated - Version number
