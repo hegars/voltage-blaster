@@ -7,6 +7,17 @@ in cooperation of PhilsComputerLab with Necroware.
 ![voltage-blaster-pcb](voltage-blaster-pcb.png)
 ![voltage-blaster-pcb](voltage-blaster-pcb-back.png)
 
+## Changes From Necroware version
+Pulled Mask from ISA Cconnector
+Pulled Mask from the top of TO220 package to allow soldering
+Added via pads for heat transfer to rear copper zone
+Added copper area for heatsinking
+Changed components aliginments slightly
+Moved logo from silk to mask
+Rounded PCB corners
+Updated "PC Rear" indicator to make it a bit more clear
+Added Pin numbers for relevent pins for refernece
+
 ## Why do I need this?
 
 Back in the days of XT and AT compatible computers the standard power supply had
