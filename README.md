@@ -9,15 +9,16 @@ in cooperation of PhilsComputerLab with Necroware.
 ![voltage-blaster-pcb](voltage-blaster-pcb-back.png)
 
 ## Changes From Necroware version
-* Pulled Mask from ISA Cconnector
-* Pulled Mask from the top of TO220 package to allow soldering
-* Added via pads for heat transfer to rear copper zone
-* Added copper area for heatsinking
-* Changed components aliginments slightly
-* Moved logo from silk to mask
-* Rounded PCB corners
-* Updated "PC Rear" indicator to make it a bit more clear
-* Added Pin numbers for relevent pins for refernece
+* Updated - Pulled Mask from ISA Cconnector
+* Updated - Pulled Mask from the top of TO-220 package to allow soldering
+* Added - Vias under TO-220 for heat transfer to rear copper zone
+* Added - Copper zone on rear at -12v potential for heat sinking and capacitance
+* Updated - Slight components aliginments
+* Moved - Logo changed from Silk to Mask and moved credits around
+* Updated - Version number
+* Updated - PCB corners rounded
+* Updated - "PC Rear" locator to make it a bit more clear the direction
+* Added - Pin numbers added for relevent pins for refernece
 
 Many thanks to Necroware and PhilsComputerLab, I owe you some beers..
 
