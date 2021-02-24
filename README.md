@@ -18,6 +18,8 @@ in cooperation of PhilsComputerLab with Necroware.
 * Updated "PC Rear" indicator to make it a bit more clear
 * Added Pin numbers for relevent pins for refernece
 
+Many thanks to Necroware and PhilsComputerLab, I owe you some beers..
+
 ## Why do I need this?
 
 Back in the days of XT and AT compatible computers the standard power supply had
