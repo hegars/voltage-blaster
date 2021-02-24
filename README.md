@@ -5,6 +5,7 @@ for systems with power supply which don't provide such voltage. It was created
 in cooperation of PhilsComputerLab with Necroware.
 
 ![voltage-blaster-pcb](voltage-blaster-pcb.png)
+![voltage-blaster-pcb](voltage-blaster-pcb-back.png)
 
 ## Why do I need this?
 
