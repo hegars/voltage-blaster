@@ -26,7 +26,7 @@ PCB - Alternate mod
 * Removed - Unused Pins on ISA Connector 
 
 SCH
-* Updated - Chaged to global lables
+* Updated - Changed to global lables
 * Updated - Version number
 
 ## All Pins Version
