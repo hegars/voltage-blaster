@@ -29,6 +29,9 @@ SCH
 * Updated - Changed to global lables
 * Updated - Version number
 
+## TODO
+* Add - Minimum load resistor
+
 ## All Pins Version
 
 ![voltage-blaster-pcb](voltage-blaster-pcb-front.png)
