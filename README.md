@@ -1,8 +1,8 @@
 # Voltage Blaster
 
 Voltage Blaster is a very simple circuit, which provides -5V through ISA slot
-for systems with power supply which don't provide such voltage. It was created
-in cooperation of PhilsComputerLab with Necroware.
+for systems with power supply which don't provide such voltage. It was originaly created
+in cooperation between PhilsComputerLab with Necroware then forked and modified by Hegars.
 
 ![voltage-blaster-pcb](images/prod.png)
 ![voltage-blaster-pcb](voltage-blaster-pcb.png)
