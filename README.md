@@ -5,7 +5,6 @@ for systems with power supply which don't provide such voltage. It was originaly
 in cooperation between PhilsComputerLab and Necroware then forked and modified by Hegars.
 
 ![voltage-blaster-pcb](images/prod.png)
-![voltage-blaster-pcb](voltage-blaster-pcb.png)
 
 ## Changes From Necroware version
 
@@ -22,8 +21,6 @@ PCB
 * Updated - PCB corners rounded
 * Updated - "PC Rear" locator to make it a bit more clear the direction
 * Added - Pin numbers added for relevent pins for refernece
-
-PCB - Alternate mod
 * Removed - Unused Pins on ISA Connector 
 
 SCH
@@ -34,16 +31,7 @@ SCH
 * Add - Minimum load resistor
 * Add - SMD version with TO-263-3 package (LM2990S-5.0/NOPB LCSC-C201697)
 
-## All Pins Version
-
-![voltage-blaster-pcb](voltage-blaster-pcb-front.png)
-![voltage-blaster-pcb](voltage-blaster-pcb-back.png)
-
-## Only Required Pins Version
 ![voltage-blaster-pcb-nopin](images/voltage-blaster-nopins.png)
-
-Hmmmm... I'm not convinced as it doesn't look as nice but it proably is better on the future wear on the socket
-
 ![voltage-blaster-pcb-nopin](images/voltage-blaster-nopins-front.png)
 ![voltage-blaster-pcb-nopin](images/voltage-blaster-nopins-back.png)
 
