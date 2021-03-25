@@ -30,6 +30,7 @@ SCH
 ## TODO
 * Add - Minimum load resistor
 * Add - SMD version with TO-263-3 package (LM2990S-5.0/NOPB LCSC-C201697)
+* Add - Fuse
 
 ![voltage-blaster-pcb-nopin](images/voltage-blaster-nopins.png)
 ![voltage-blaster-pcb-nopin](images/voltage-blaster-nopins-front.png)
