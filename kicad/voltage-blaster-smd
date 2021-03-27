@@ -1,0 +1,18 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    </head>
+    <body>
+    <h1>C:\Users\hegar\OneDrive\KICAD\voltage-blaster\kicad\voltage-blaster-smd.sch</h1>
+    <p>27/03/2021 2:28:46 PM</p>
+    <p>Eeschema (5.1.9)-1</p>
+    <p><b>Component Count:</b>11</p>
+    <table>
+    <tr><th style='width:640px'>Ref</th><th>Qnty</th><th>Value</th><th>Part</th><th>Datasheet</th><th>Description</th><th>Vendor</th></tr><tr><td>C1, C2</td><td>2</td><td>33u</td><td>Device:C_Polarized</td><td>~</td><td>Polarized capacitor</td><td></td></tr><tr><td>D1</td><td>1</td><td>-5V</td><td>Device:LED</td><td>~</td><td>Light emitting diode</td><td></td></tr><tr><td>D2</td><td>1</td><td>-12V</td><td>Device:LED</td><td>~</td><td>Light emitting diode</td><td></td></tr><tr><td>F1, F2</td><td>2</td><td>Fuse</td><td>Device:Fuse</td><td>~</td><td>Fuse</td><td></td></tr><tr><td>H1</td><td>1</td><td>MountingHole_Pad</td><td>Mechanical:MountingHole_Pad</td><td>~</td><td>Mounting Hole with connection</td><td></td></tr><tr><td>J1</td><td>1</td><td>Bus_ISA_8bit</td><td>Connector:Bus_ISA_8bit</td><td>https://en.wikipedia.org/wiki/Industry_Standard_Architecture</td><td>8-bit ISA-PC bus connector</td><td></td></tr><tr><td>R1, R2</td><td>2</td><td>330</td><td>Device:R</td><td>~</td><td>Resistor</td><td></td></tr><tr><td>U1</td><td>1</td><td>LM7905</td><td>Regulator_Linear:L7905</td><td>http://www.st.com/content/ccc/resource/technical/document/datasheet/c9/16/86/41/c7/2b/45/f2/CD00000450.pdf/files/CD00000450.pdf/jcr:content/translations/en.CD00000450.pdf</td><td>Negative 1.5A 35V Linear Regulator, Fixed Output -5V, TO-220/TO-263</td><td></td></tr><!--TABLEROW-->
+    </table>
+    </body>
+</html>
+    

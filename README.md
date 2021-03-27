@@ -33,10 +33,16 @@ SCH
 
 Many thanks to Necroware and PhilsComputerLab, I owe you some beers..
 
-## SMD Version 2.0
+# Voltage Blaster SMD
+
+![voltage-blaster-pcb-smd](images/voltage-blaster-smd.png)
+
+In Version 2 I have moved all components to SMD variants
 
 ![voltage-blaster-pcb-smd](images/voltage-blaster-smd-front.png)
 ![voltage-blaster-pcb-smd](images/voltage-blaster-smd-back.png)
+
+## SMD Changelog 
 
 * Added - SMD version with TO-263-3 package (LM2990S-5.0/NOPB LCSC-C201697)
 * Updated - Componets to SMD variants
@@ -47,6 +53,21 @@ Many thanks to Necroware and PhilsComputerLab, I owe you some beers..
 * Moved - Logo and credits to rear
 * Updated - Verison numbers
 * Add? - Minimum load resistor?
+
+## SMD BOM
+
+Reference  |#  |LCSC   |Description
+-----------|---|-------|-------------------------------------
+U1         | 1 |C201697| linear voltage regulator
+C1,C2      | 2 |C88824 | electrolytic capacitor 33µF
+F1         | 1 |C692148| fuse
+F2         | 1 |C692149| fuse
+D1         | 1 |C192678| light emitting diode
+D2         | 1 |C192674| light emitting diode
+R1,R2      | 1 |C269588| resistor
+
+
+# Original Voltage Blaster Description
 
 ## Why do I need this?
 

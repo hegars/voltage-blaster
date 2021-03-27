@@ -6,9 +6,9 @@ encoding utf-8
 Sheet 1 1
 Title "Voltage Blaster SMD"
 Date "2021-03-27"
-Rev "2.0-smd-mod-hegars"
-Comp "PhilsComputerLab & Necroware"
-Comment1 "Designed by Scorp"
+Rev "2.0-smd"
+Comp "Original Concept by PhilsComputerLab & Necroware"
+Comment1 ""
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -409,10 +409,10 @@ F 3 "" H 2450 3600 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:Fuse F?
+L Device:Fuse F1
 U 1 1 6060853B
 P 5900 2750
-F 0 "F?" V 5703 2750 50  0000 C CNN
+F 0 "F1" V 5703 2750 50  0000 C CNN
 F 1 "Fuse" V 5794 2750 50  0000 C CNN
 F 2 "Fuse_Holders_and_Fuses:Fuse_SMD1206_HandSoldering" V 5830 2750 50  0001 C CNN
 F 3 "~" H 5900 2750 50  0001 C CNN
@@ -421,10 +421,10 @@ F 4 "C692148" V 5900 2750 50  0001 C CNN "LCSC"
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:Fuse F?
+L Device:Fuse F2
 U 1 1 60608EF9
 P 5900 2950
-F 0 "F?" V 5703 2950 50  0000 C CNN
+F 0 "F2" V 5703 2950 50  0000 C CNN
 F 1 "Fuse" V 5794 2950 50  0000 C CNN
 F 2 "Fuse_Holders_and_Fuses:Fuse_SMD1206_HandSoldering" V 5830 2950 50  0001 C CNN
 F 3 "~" H 5900 2950 50  0001 C CNN
