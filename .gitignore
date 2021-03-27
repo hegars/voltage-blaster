@@ -2,3 +2,5 @@
 /kicad/*-cache.lib 
 /kicad/*-bak
 /kicad/gerber/*
+kicad/_autosave-voltage-blaster-smd.kicad_pcb
+kicad/_autosave-voltage-blaster-smd.sch
