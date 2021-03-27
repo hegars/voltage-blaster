@@ -41,7 +41,13 @@ Many thanks to Necroware and PhilsComputerLab, I owe you some beers..
 * Added - SMD version with TO-263-3 package (LM2990S-5.0/NOPB LCSC-C201697)
 * Updated - Componets to SMD variants
 * Added - PTC Fuses on both power rails
-* Add - Minimum load resistor?
+* Added - Mounting hole for reasons
+* Added - Test Points on rear for science
+* Added - LED for -12v rail
+* Moved - Logo and credits to rear
+* Updated - Verison numbers
+
+* Add? - Minimum load resistor?
 
 ## Why do I need this?
 
