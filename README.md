@@ -1,4 +1,4 @@
-# Voltage Blaster
+# Voltage Blaster Mod
 
 Voltage Blaster is a very simple circuit, which provides -5V through ISA slot
 for systems with power supply which don't provide such voltage. It was originaly created
