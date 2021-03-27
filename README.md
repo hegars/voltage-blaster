@@ -46,7 +46,6 @@ Many thanks to Necroware and PhilsComputerLab, I owe you some beers..
 * Added - LED for -12v rail
 * Moved - Logo and credits to rear
 * Updated - Verison numbers
-
 * Add? - Minimum load resistor?
 
 ## Why do I need this?
