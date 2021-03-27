@@ -27,16 +27,21 @@ SCH
 * Updated - Changed to global lables
 * Updated - Version number
 
-## TODO
-* Add - Minimum load resistor
-* Add - SMD version with TO-263-3 package (LM2990S-5.0/NOPB LCSC-C201697)
-* Add - Fuse
-
 ![voltage-blaster-pcb-nopin](images/voltage-blaster-nopins.png)
 ![voltage-blaster-pcb-nopin](images/voltage-blaster-nopins-front.png)
 ![voltage-blaster-pcb-nopin](images/voltage-blaster-nopins-back.png)
 
 Many thanks to Necroware and PhilsComputerLab, I owe you some beers..
+
+## SMD Version 2.0
+
+![voltage-blaster-pcb-smd](images/voltage-blaster-smd-front.png)
+![voltage-blaster-pcb-smd](images/voltage-blaster-smd-back.png)
+
+* Added - SMD version with TO-263-3 package (LM2990S-5.0/NOPB LCSC-C201697)
+* Updated - Componets to SMD variants
+* Added - PTC Fuses on both power rails
+* Add - Minimum load resistor?
 
 ## Why do I need this?
 
